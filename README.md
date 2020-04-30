@@ -5,6 +5,8 @@ I am a bad guy, and I am to die by hanging, however, the only way to successfull
 
 Can you successfully #hangme? 
 
+![](CircularFavoriteIguana-small.gif)
+
 ## Difficulty level: Beginner
 ## Language: Python
 
