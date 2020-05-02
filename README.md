@@ -6,6 +6,7 @@ I am a bad guy, and I am to die by hanging, however, the only way to successfull
 Can you successfully #hangme? 
 
 ![](CircularFavoriteIguana-small.gif)
+Note that this image is only meant to provide clarity as to how the game works. It doesn't require that you design the application in this manner. All image rights reserved to their respective owners
 
 ## Difficulty level: Beginner
 ## Language: Python
