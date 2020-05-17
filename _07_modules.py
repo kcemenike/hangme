@@ -1,4 +1,4 @@
-# MODULES
+# MODULES.
 # In Python, you can import modules to do specialised functions
 # The math module, for example, is used for mathematical computation
 # You can also import your own .py files as modules

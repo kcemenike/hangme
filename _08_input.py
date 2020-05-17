@@ -1,4 +1,4 @@
-# INPUT
+# INPUT.
 
 input("Please enter a number:\n")
 # Gets input while presenting a prompt to the user
