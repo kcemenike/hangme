@@ -3,8 +3,7 @@
 **/.vscode/
 **/.env
 **/.ipynb_checkpoints/
-**/Untitled*.ipynb
+# **/Untitled*.ipynb
 
-get_random.py
-main.py
-set_difficulty.py
+# get_random.py
+_main.py
