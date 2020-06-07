@@ -2,7 +2,7 @@
 The difficulty is a function of the randomly generated word length
 easy = min_word_length=5, max_word_length=6, number_of_tries=5
 normal = min_word_length=7, max_word_length=9 number_of_tries=7
-hard = min_word_length=11, max_word_length=16, number_of_tries=8
+hard = min_word_length=10, max_word_length=12, number_of_tries=10
 impossible = min_word_length=12, max_word_length=16, number_of_tries=4
 '''
 
@@ -34,8 +34,8 @@ def set_difficulty(selection=None, min_word_length=5, max_word_length=7, number_
                     max_word_length = 12
                     number_of_tries = 10
                 elif selection == 4:
-                    min_word_length = 11
-                    max_word_length = 16
+                    min_word_length = 13
+                    max_word_length = 20
                     number_of_tries = 8
                 else:
                     print("You have entered a wrong number")
