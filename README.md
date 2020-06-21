@@ -29,3 +29,6 @@ Once you have satisfied these requirements, you can start by:
 1. Fork this git
 2. Clone the fork on your PC
 3. Join the live session, let us #CodeAlong
+
+To run the completed project, navigate to the game_files folder, then run
+`python main.py`
