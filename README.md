@@ -12,17 +12,17 @@ Note that this image is only meant to provide clarity as to how the game works. 
 ## Language: Python
 
 At the end of this #CodeAlong session, you should have been able to learn the following
-- Basic Python syntax
-- Variables
-- Iterables
-- Functions
-- Conditionals and Loops
-- Modules
+- [Basic Python syntax](/PythonBasics/_00_start.py)
+- [Variables](/PythonBasics/_03_variables.py)
+- [Iterables](/PythonBasics/_05_loops.py)
+- [Functions](/PythonBasics/_09_functions.py)
+- [Conditionals](/PythonBasics/_06_conditionals.py) and [Loops](/PythonBasics/_05_loops.py)
+- [Modules](/PythonBasics/_07_modules.py)
 - And some more advanced but simple-to-grab stuff
 
 Ready to #CodeAlong? Let's begin! However, you need two tools to start
-1. Git (You probably already have git, and a github account. If you don't, well, you can just hit "sign-up" now). Also download github by visiting https://desktop.github.com and following the instructions
-2. Python. I normally recommend the full package of anaconda - a distribution that includes not only Python, but most likely everything you need to have as a Python Data Scientist
+1. Git (You probably already have git, and a github account. If you don't, well, you can just hit "sign-up" now on the top right of this screen). Also download github by visiting https://git-scm.com/downloads and following the instructions
+2. Python. I normally recommend the full package of anaconda - a distribution that includes not only Python, but most likely everything you need to have as a Python Data Scientist. Get it here -> https://www.anaconda.com/products/individual#Downloads
 
 Once you have satisfied these requirements, you can start by:
 
@@ -30,5 +30,8 @@ Once you have satisfied these requirements, you can start by:
 2. Clone the fork on your PC
 3. Join the live session, let us #CodeAlong
 
-To run the completed project, navigate to the game_files folder, then run
+If you are a complete beginner, check out the videos in this [link](https://www.youtube.com/playlist?list=PLHVDW0y9HAIpA2IW-gplHFp_EHmQ7sEVZ)   
+If you already have hands-on experience and want to dive into the projects in the code, go straight to the [project video](https://www.youtube.com/watch?v=O0WpwgDTP6M&list=PLHVDW0y9HAIpA2IW-gplHFp_EHmQ7sEVZ&index=6&t=0s) and the [code repo](https://github.com/kcemenike/hangme/tree/master/game_files)   
+
+To run the completed project, navigate to the game_files folder, then run  
 `python main.py`
