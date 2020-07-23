@@ -20,9 +20,10 @@ At the end of this #CodeAlong session, you should have been able to learn the fo
 - [Modules](/PythonBasics/_07_modules.py)
 - And some more advanced but simple-to-grab stuff
 
-Ready to #CodeAlong? Let's begin! However, you need two tools to start
+Ready to #CodeAlong? Let's begin! However, you need these tools to start
 1. Git (You probably already have git, and a github account. If you don't, well, you can just hit "sign-up" now on the top right of this screen). Also download github by visiting https://git-scm.com/downloads and following the instructions
-2. Python. I normally recommend the full package of anaconda - a distribution that includes not only Python, but most likely everything you need to have as a Python Data Scientist. Get it here -> https://www.anaconda.com/products/individual#Downloads
+2. Python. I normally recommend the full package of Anaconda - a distribution that includes not only Python, but most likely everything you need to have as a Python Data Scientist. Get it here -> https://www.anaconda.com/products/individual#Downloads
+3. Visual Studio Code - Microsoft's Integrate Development Environment for all things software development. This, in my opinion, is by far the best IDE you can use for any language. Get it here -> https://code.visualstudio.com/download
 
 Once you have satisfied these requirements, you can start by:
 
